@@ -1,4 +1,4 @@
-# SlideToObsidian
+# PPTX-to-AI-Readable-PDF
 
 High-performance Python CLI and GUI that batch-convert **PowerPoint files** into **AI-optimized Markdown + PDF pairs** for [Obsidian](https://obsidian.md/).
 
